@@ -9,7 +9,5 @@ public class MsProductApplication {
     public static void main(String[] args) {
         SpringApplication.run(MsProductApplication.class, args);
     }
-    /*
-    dfgdfgfddfgds
-     */
+
 }
